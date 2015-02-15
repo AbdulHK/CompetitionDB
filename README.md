@@ -1,2 +1,2 @@
 # CompetitionDB
-Database for a competition SQL
+SQL code for a competition database
